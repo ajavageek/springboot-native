@@ -1,0 +1,208 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "(c) 2021 MARVEL",
+  "attributionText": "Data provided by Marvel. (c) 2021 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. (c) 2021 MARVEL</a>",
+  "etag": "47abf0c609beb6ad0efbdc2a47d387dece66b381",
+  "data": {
+    "offset": 50,
+    "limit": 1,
+    "total": 1559,
+    "count": 1,
+    "results": [
+      {
+        "id": 1010674,
+        "name": "Anita Blake",
+        "description": "",
+        "modified": "2004-04-14T00:00:00-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c0038fa14452",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010674",
+        "comics": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010674/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5912",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5745",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6143",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16548",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20681",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #8 (Booth Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20880",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #9"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5907",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21227",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #11"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21368",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #12"
+            }
+          ],
+          "returned": 9
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010674/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1152",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006 - 2008)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 49,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010674/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/6285",
+              "name": "Cover #6285",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/7932",
+              "name": "Cover #7932",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33070",
+              "name": "2XLS - The First Death 2 of 2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33374",
+              "name": "12XLS 8 of 12",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/44350",
+              "name": "12XLS 8 of 12",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/44711",
+              "name": "12XLS 9 of 12",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46887",
+              "name": "12XLS 11 of 12",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/47188",
+              "name": "12XLS 12 of 12",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/49008",
+              "name": "15XLS 1 of 15",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/50014",
+              "name": "15XLS 2 of 15",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51012",
+              "name": "15XLS 3 of 15",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51361",
+              "name": "5XLS 4 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52361",
+              "name": "5XLS 5 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53269",
+              "name": "5XLS 1 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53270",
+              "name": "5XLS 1 of 5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53271",
+              "name": "5XLS 1 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53678",
+              "name": "5XLS 2 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53679",
+              "name": "5XLS 2 of 5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53989",
+              "name": "Cover #53989",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53991",
+              "name": "Cover #53991",
+              "type": "cover"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010674/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/characters/3428/anita_blake?utm_campaign=apiRef&utm_source=2e526b0369ba438f49cbad68beffde7f"
+          },
+          {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Blake,_Anita_(Anita_Blake_Universe)?utm_campaign=apiRef&utm_source=2e526b0369ba438f49cbad68beffde7f"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://marvel.com/comics/characters/1010674/anita_blake?utm_campaign=apiRef&utm_source=2e526b0369ba438f49cbad68beffde7f"
+          }
+        ]
+      }
+    ]
+  }
+}

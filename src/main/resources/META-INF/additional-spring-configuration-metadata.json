@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "app.marvel.server-url",
+      "type": "java.lang.String",
+      "description": "Marvel API server URL."
+    },
+    {
+      "name": "app.marvel.api-key",
+      "type": "java.lang.String",
+      "description": "Marvel API public API key."
+    },
+    {
+      "name": "app.marvel.private-key",
+      "type": "java.lang.String",
+      "description": "Marvel API private API key."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+spring:
+  jackson:
+    default-property-inclusion: non_null
+app:
+  marvel:
+    server-url: https://gateway.marvel.com:443
